@@ -1,0 +1,4 @@
+interface:
+  display_name: "Harness AI-DLC Guide"
+  short_description: "AI-DLCの原則で開発経路・作業の深さ・承認点を適応的に案内する"
+  default_prompt: "Use $harness-aidlc-guide to assess this development request and propose the appropriate path."

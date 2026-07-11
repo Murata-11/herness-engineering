@@ -9,3 +9,5 @@
 追記形式: `| [YYYY-MM-DD-<outcome-name>](YYYY-MM-DD-<outcome-name>.md) | YYYY-MM-DD | <検証済みの成果> |`
 
 検証が未実施・失敗・不明な計画は`active/`に残し、次の対応をフォローアップへ記録します。
+
+| [2026-07-12-adaptive-harness-guide](2026-07-12-adaptive-harness-guide.md) | 2026-07-12 | 適応的な開発ガイドスキルを作成し、構造・差分検証を完了 |
