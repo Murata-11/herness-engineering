@@ -6,8 +6,11 @@
 
 全マイルストーン、検証結果、フォローアップを記録した計画だけを`active/`から移動し、この索引へ追記します。過去の経緯は削除しません。
 
-追記形式: `| [YYYY-MM-DD-<outcome-name>](YYYY-MM-DD-<outcome-name>.md) | YYYY-MM-DD | <検証済みの成果> |`
+追記形式: `| YYYY-MM-DD-<outcome-name> | YYYY-MM-DD | <検証済みの成果> |`
 
 検証が未実施・失敗・不明な計画は`active/`に残し、次の対応をフォローアップへ記録します。
 
+| 文書 | 完了日 | 成果 |
+| --- | --- | --- |
 | [2026-07-12-adaptive-harness-guide](2026-07-12-adaptive-harness-guide.md) | 2026-07-12 | 適応的な開発ガイドスキルを作成し、構造・差分検証を完了 |
+| [2026-07-14-harness-usage-retrospective](2026-07-14-harness-usage-retrospective.md) | 2026-07-14 | ハーネス運用の評価・記録・改善サイクル案を整理 |
